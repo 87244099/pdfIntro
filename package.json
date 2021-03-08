@@ -1,0 +1,12 @@
+{
+  "name": "pdfIntro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parse-pdf": "^1.0.0",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-text": "^0.0.7",
+    "pdf2json": "^1.2.0"
+  }
+}
